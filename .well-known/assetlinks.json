@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "app.netlify.exquisite_swan_ae53d2.twa",
-    "sha256_cert_fingerprints": ["A2:60:D4:BC:C4:67:20:7D:A2:51:F4:6D:70:6E:47:44:F3:E6:9F:88:87:A8:0F:BC:AB:C7:DC:10:E9:8A:43:60"]
+    "package_name": "app.netlify.faollik_app.twa",
+    "sha256_cert_fingerprints": ["DA:E7:03:E6:69:F2:CC:43:DB:D3:62:D5:D1:15:2B:01:9C:B4:3C:13:D7:D4:CA:51:6D:19:62:91:6B:80:1C:C4"]
   }
 }]
